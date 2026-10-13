@@ -1,1 +1,19 @@
+# Archivos de configuración local del editor
+.vscode/
+
+# Directorios de compilación generados por CMake
+build/
+out/
+bin/
+
+# Archivos ejecutables generados
 *.exe
+*.out
+*.app
+
+# Archivos de caché e información de compilación de CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
