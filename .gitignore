@@ -13,6 +13,7 @@ bin/
 
 # Archivos de caché e información de compilación de CMake
 CMakeCache.txt
+CMakeList.txt
 CMakeFiles/
 cmake_install.cmake
 Makefile
